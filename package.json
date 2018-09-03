@@ -1,0 +1,20 @@
+{
+  "name": "jinlin_chengguan_node",
+  "version": "1.0.0",
+  "description": "吉林城管node项目",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/wzwxwc/jilin_chengguan_node.git"
+  },
+  "keywords": [
+    "jilin",
+    "chengguan",
+    "node"
+  ],
+  "author": "zc",
+  "license": "ISC"
+}

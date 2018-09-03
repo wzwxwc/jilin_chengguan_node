@@ -1,5 +1,5 @@
 var fs = require('fs');
-var objGeojson = require("./data/all.geojson")
+var objGeojson = require("./data/polygon_jmd_240.geojson")
 
 console.log(objGeojson.features.length);
 

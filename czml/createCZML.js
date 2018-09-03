@@ -129,7 +129,7 @@ function get_polygon_extrudedHeight(feaTypeIndex) {
     var heightRange = arrHeightPreDefine[feaTypeIndex]
     var floor = heightRange[0];
     var ceil = heightRange[1];
-    var gap = ceil = floor;
+    var gap = ceil - floor;
     return Math.floor(Math.random() * gap) + floor;
 }
 

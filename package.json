@@ -16,5 +16,8 @@
     "node"
   ],
   "author": "zc",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "gdal": "^0.9.8"
+  }
 }
